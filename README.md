@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Preview" src="./Images/hero.png" width="800">
+</div>
+
 # Course Repo
 
 - **Title:** Version Control and Optimization: Optimization Research
