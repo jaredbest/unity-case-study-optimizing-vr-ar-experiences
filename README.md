@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Preview" src="./Images/hero.png" width="800">
+  <img alt="Preview" src="./Images/hero.PNG" width="800">
 </div>
 
 # Course Repo
